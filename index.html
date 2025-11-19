@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phuvara Seupasuk | Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+
+    <div class="background-mesh">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+
+    <div class="container">
+        <header class="glass-card hero">
+            <div class="profile-info">
+                <div class="status-badge">
+                    <span class="pulsing-dot"></span>
+                    <span>Working at Plastic Surgery Hospital</span>
+                </div>
+                <h1>Phuvara Seupasuk <span class="nickname">(Lvinnn)</span></h1>
+                <p class="role">Graphic Designer & UI Enthusiast</p>
+                <p class="description">
+                    สร้างสรรค์งานวิชวลที่ทรงพลัง ตั้งแต่ Branding ไปจนถึง Game UI 
+                    ผสมผสานศิลปะเข้ากับฟังก์ชัน เพื่อผลลัพธ์ที่แตกต่าง
+                </p>
+                <div class="social-links">
+                    <a href="#" class="btn-icon"><i class="fab fa-behance"></i></a>
+                    <a href="#" class="btn-icon"><i class="fab fa-instagram"></i></a>
+                    <a href="#" class="btn-icon"><i class="fab fa-linkedin"></i></a>
+                </div>
+            </div>
+            <div class="profile-img-placeholder">
+                <img src="path/to/your-profile.jpg" alt="Profile" onerror="this.style.display='none'">
+                <div class="img-fallback">YOUR PHOTO</div>
+            </div>
+        </header>
+
+        <nav class="glass-nav">
+            <button class="nav-btn active" data-filter="all">All</button>
+            <button class="nav-btn" data-filter="graphic">Graphic Design</button>
+            <button class="nav-btn" data-filter="ui">UI / FiveM</button>
+            <button class="nav-btn" data-filter="experience">Experience</button>
+        </nav>
+
+        <main class="gallery-grid">
+            
+            <div class="grid-item graphic large">
+                <div class="card-content">
+                    <span class="category">Esport Branding</span>
+                    <h3>Team Identity Design</h3>
+                    <div class="work-img" style="background-image: url('path/to/work1.jpg');"></div>
+                </div>
+            </div>
+
+            <div class="grid-item graphic">
+                <div class="card-content">
+                    <span class="category">Ads & Social</span>
+                    <h3>Clinic Promotion</h3>
+                    <div class="work-img" style="background-image: url('path/to/work2.jpg');"></div>
+                </div>
+            </div>
+
+            <div class="grid-item ui tall">
+                <div class="card-content">
+                    <span class="category">Game UI</span>
+                    <h3>FiveM Inventory System</h3>
+                    <p>Custom Interface Design</p>
+                    <div class="work-img" style="background-image: url('path/to/ui1.jpg');"></div>
+                </div>
+            </div>
+
+            <div class="grid-item graphic">
+                <div class="card-content">
+                    <span class="category">Logo Design</span>
+                    <h3>Modern Minimalist</h3>
+                    <div class="work-img" style="background-image: url('path/to/logo1.jpg');"></div>
+                </div>
+            </div>
+
+             <div class="grid-item graphic">
+                <div class="card-content">
+                    <span class="category">Banner/Vinyl</span>
+                    <h3>Event Backdrop</h3>
+                    <div class="work-img" style="background-image: url('path/to/banner.jpg');"></div>
+                </div>
+            </div>
+
+            <div class="grid-item experience wide hidden">
+                <div class="card-content timeline">
+                    <h3>Professional Journey</h3>
+                    <div class="timeline-item">
+                        <span class="date">Present (5 Months)</span>
+                        <h4>Graphic Designer</h4>
+                        <p>Plastic Surgery Hospital</p>
+                        <small>ดูแลงานกราฟิกโรงพยาบาลศัลยกรรม ทั้งสื่อออนไลน์และออฟไลน์</small>
+                    </div>
+                    <div class="timeline-item">
+                        <span class="date">Previous (10 Months)</span>
+                        <h4>Graphic Designer</h4>
+                        <p>Skincare Company</p>
+                        <small>รับผิดชอบงานออกแบบ Packaging และสื่อโฆษณาผลิตภัณฑ์</small>
+                    </div>
+                </div>
+            </div>
+
+        </main>
+
+        <footer class="glass-card contact-section">
+            <h2>Ready to create something amazing?</h2>
+            <p>สนใจร่วมงาน หรือจ้างทำโปรเจกต์ ทักมาคุยกันได้เลยครับ</p>
+            <a href="mailto:your-email@gmail.com" class="cta-button">Contact Me</a>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
