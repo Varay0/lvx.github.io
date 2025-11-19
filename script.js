@@ -67,20 +67,55 @@ const portfolioConfig = {
             <div class="timeline-full">
                 <div class="timeline-item">
                     <span class="date" style="color: #4ade80;">Current (5 Months)</span>
-                    <h3>Graphic Designer @ Plastic Surgery Hospital</h3>
+                    <h3>Graphic Designer @ AM International Hospital</h3>
                     <p><strong>Key Responsibilities:</strong></p>
+                    <p>Skincare Company:</p>
                     <ul style="margin-left: 20px; opacity: 0.8; line-height: 1.6;">
-                        <li>ออกแบบสื่อโฆษณาโปรโมชั่นรายเดือน (Online & Offline)</li>
-                        <li>ดูแลภาพลักษณ์ CI ของโรงพยาบาลในทุก Platform</li>
-                        <li>Retouch ภาพรีวิวศัลยกรรมให้ดูสวยงามและสมจริง</li>
-                        <li>ประสานงานกับทีม Marketing เพื่อวาง Strategy</li>
+                        <li>Design artwork for skincare branding on social media platforms
+                        (Instagram, Lemon8, TikTok, Line Broadcast, Shopee).</li>
+                        <li>Create promotions, content, reviews, product announcements,etc.</li>
+                        <li>Research data for Lemon8 content (Occasionally).</li>
+                        <li>Design artwork for shirts, bus ads, product mockups.</li>
+                        <li>Brief studio for product photoshoots.</li>
                     </ul>
+                    
                 </div>
                 <hr style="border: 0; border-top: 1px solid rgba(255,255,255,0.1); margin: 20px 0;">
                 <div class="timeline-item">
                     <span class="date">2023 - 2024 (10 Months)</span>
-                    <h3>Graphic Designer @ Skincare Brand</h3>
-                    <p>รับผิดชอบการออกแบบ Packaging, Ads Banner และดูแล Art Direction ของแบรนด์...</p>
+                    <h3>Graphic Designer @ AM International Hospital</h3>
+                    <p><strong>Key Responsibilities:</strong></p>
+                    <p>Skincare Company:</p>
+                    <ul style="margin-left: 20px; opacity: 0.8; line-height: 1.6;">
+                        <li>Design artwork for skincare branding on social media platforms
+                        (Instagram, Lemon8, TikTok, Line Broadcast, Shopee).</li>
+                        <li>Create promotions, content, reviews, product announcements,etc.</li>
+                        <li>Research data for Lemon8 content (Occasionally).</li>
+                        <li>Design artwork for shirts, bus ads, product mockups.</li>
+                        <li>Brief studio for product photoshoots.</li>
+                    </ul>
+                    <p>Packaging Company:</p>
+                    <ul style="margin-left: 20px; opacity: 0.8; line-height: 1.6;">
+                        <li>Prepare die cuts, retouch photos, categorize and back up files.</li>
+                        <li>Design artwork for social media platforms (Instagram, website).</li>
+                        <li>Manage website systems (theme, cover, catalog, UI, and othersystem settings).</li>
+                        <li>Design artwork for shirts, bus ads, product mockups.</li>
+                        <li>Design catalog (theme, layout, design, product details).</li>
+                    </ul>
+                    <p>Video Editor:</p>
+                    <ul style="margin-left: 20px; opacity: 0.8; line-height: 1.6;">
+                        <li>Check footage (assistant).</li>
+                        <li>Perform jump cuts.</li>
+                        <li>Edit with effects (occasionally).</li>
+                        <li>Advanced video editing (occasionally).</li>
+                    </ul>
+                    <p>Other:</p>
+                    <ul style="margin-left: 20px; opacity: 0.8; line-height: 1.6;">
+                        <li>Data analysis (marketing & trends).</li>
+                        <li>Present trends and new knowledge to the team.</li>
+                        <li>Support the company's IT systems.</li>
+                        <li>Analyze and plan content for TikTok videos (1-month).</li>
+                    </ul>
                 </div>
                 <div class="timeline-item">
                     <span class="date">Freelance Era</span>
@@ -174,3 +209,4 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     };
 });
+
